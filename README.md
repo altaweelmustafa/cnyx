@@ -1,11 +1,15 @@
 # cnyx 
 #### A Music Downloader for Nyx Music Player.
 
+---
+
 ## Installation
 
 ```bash
 pip install cnyx
 ```
+
+---
 
 ## Usage
 
@@ -13,3 +17,6 @@ pip install cnyx
 cnyx song-name artist-name
 ```
 
+---
+
+> Music saved to `~/nyx/songs`
