@@ -1,5 +1,5 @@
 Metadata-Version: 2.4
 Name: cnyx
-Version: 1.0.0
-Summary: Music downloader for Nyx Music Player
+Version: 1.0.3
+Summary: Search and download songs from the CLI
 Requires-Dist: yt-dlp

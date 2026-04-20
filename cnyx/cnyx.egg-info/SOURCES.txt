@@ -1,3 +1,4 @@
+cnyx.py
 pyproject.toml
 cnyx.egg-info/PKG-INFO
 cnyx.egg-info/SOURCES.txt

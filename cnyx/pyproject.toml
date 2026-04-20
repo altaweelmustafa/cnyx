@@ -4,9 +4,12 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "cnyx"
-version = "1.0.0"
-description = "Music downloader for Nyx Music Player"
+version = "1.0.3"
+description = "Search and download songs from the CLI"
 dependencies = ["yt-dlp"]
 
 [project.scripts]
 cnyx = "cnyx:main"
+
+[tool.setuptools]
+py-modules = ["cnyx"]
