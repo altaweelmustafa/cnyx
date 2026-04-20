@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cnyx"
+version = "1.0.0"
+description = "Music downloader for Nyx Music Player"
+dependencies = ["yt-dlp"]
+
+[project.scripts]
+cnyx = "cnyx:main"

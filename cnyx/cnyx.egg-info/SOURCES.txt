@@ -1,0 +1,7 @@
+pyproject.toml
+cnyx.egg-info/PKG-INFO
+cnyx.egg-info/SOURCES.txt
+cnyx.egg-info/dependency_links.txt
+cnyx.egg-info/entry_points.txt
+cnyx.egg-info/requires.txt
+cnyx.egg-info/top_level.txt
