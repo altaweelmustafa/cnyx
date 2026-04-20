@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "cnyx"
-version = "1.0.3"
+version = "1.0.5"
 description = "Search and download songs from the CLI"
 dependencies = ["yt-dlp"]
 
